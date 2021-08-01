@@ -109,6 +109,21 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+/home/alexsandro/pCloudDrive/My Docs/Cursos/Bootcamp_Carrefour/bootcamp_data_engineer/SegurançadainformacaocomPython/clienteserverUDP/venv/
+/home/alexsandro/pCloudDrive/My Docs/Cursos/Bootcamp_Carrefour/bootcamp_data_engineer/SegurançadainformacaocomPython/clientetcp/venv/
+/home/alexsandro/pCloudDrive/My Docs/Cursos/Bootcamp_Carrefour/bootcamp_data_engineer/SegurançadainformacaocomPython/comparadordehashes/venv/
+/home/alexsandro/pCloudDrive/My Docs/Cursos/Bootcamp_Carrefour/bootcamp_data_engineer/SegurançadainformacaocomPython/geradordesenhas/venv/
+/home/alexsandro/pCloudDrive/My Docs/Cursos/Bootcamp_Carrefour/bootcamp_data_engineer/SegurançadainformacaocomPython/geradordeworldlist/venv/
+/home/alexsandro/pCloudDrive/My Docs/Cursos/Bootcamp_Carrefour/bootcamp_data_engineer/SegurançadainformacaocomPython/gh/venv/
+/home/alexsandro/pCloudDrive/My Docs/Cursos/Bootcamp_Carrefour/bootcamp_data_engineer/SegurançadainformacaocomPython/ipexterno/venv/
+/home/alexsandro/pCloudDrive/My Docs/Cursos/Bootcamp_Carrefour/bootcamp_data_engineer/SegurançadainformacaocomPython/openbrowser/venv/
+/home/alexsandro/pCloudDrive/My Docs/Cursos/Bootcamp_Carrefour/bootcamp_data_engineer/SegurançadainformacaocomPython/phonenumber/venv/
+/home/alexsandro/pCloudDrive/My Docs/Cursos/Bootcamp_Carrefour/bootcamp_data_engineer/SegurançadainformacaocomPython/pingmultiplo/venv/
+/home/alexsandro/pCloudDrive/My Docs/Cursos/Bootcamp_Carrefour/bootcamp_data_engineer/SegurançadainformacaocomPython/pingsimples/venv/
+/home/alexsandro/pCloudDrive/My Docs/Cursos/Bootcamp_Carrefour/bootcamp_data_engineer/SegurançadainformacaocomPython/scrapper/venv/
+/home/alexsandro/pCloudDrive/My Docs/Cursos/Bootcamp_Carrefour/bootcamp_data_engineer/SegurançadainformacaocomPython/threadseips/venv/
+/home/alexsandro/pCloudDrive/My Docs/Cursos/Bootcamp_Carrefour/bootcamp_data_engineer/SegurançadainformacaocomPython/webcrawler/venv/
+
 
 # Spyder project settings
 .spyderproject
